@@ -1,30 +1,29 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
 <head>
- <nav>
-    <title>Prtfolio</title>
-	<style>
+<title>Contact</title><style>
 
 body{
      background-image:url("file:///C:/Users/nica/Documents/Landing%20Page/anime/Screenshot%20(497).png");
 }
 
 </style>
- </nav>
 </head>
- <body>
-   <div class="hero">
-    <nav>	
-     <ul>
-	  
-	  <h1 style="font-size:60px">Their album!!!</h1>
-       	 <img src="file:///C:/Users/nica/Documents/SCHOOL%20FILE%20BSIT-3A/HTML/IT%20PROF%20INTELECT1/OYO-Creating%20Porfolio%20page/373715490_866411044853782_1258904340864845155_n.jpg" height="140px" width="140px">
-		 <img src="file:///C:/Users/nica/Documents/SCHOOL%20FILE%20BSIT-3A/HTML/IT%20PROF%20INTELECT1/OYO-Creating%20Porfolio%20page/273889534_353262379790988_3514819282601294374_n.jpg" height="140" width="140">
-		 <img src="file:///C:/Users/nica/Documents/SCHOOL%20FILE%20BSIT-3A/HTML/IT%20PROF%20INTELECT1/OYO-Creating%20Porfolio%20page/276984802_346470390600443_1619360402487212279_n.jpg" height="140" width="140">
-		 <img src="file:///C:/Users/nica/Documents/SCHOOL%20FILE%20BSIT-3A/HTML/IT%20PROF%20INTELECT1/OYO-Creating%20Porfolio%20page/370334541_860691302092423_4089485606168327082_n.jpg" height="140" width="140">
-	 
-	 </ul>
-	</nav>
-   </div>
- </body>
+
+
+</head>
+  <body>
+     <div class="hero">
+	     <nav>
+		     <ul>
+			     
+				 <h1 style="background-color:powderblue">This is my Contact!</h1>
+				 
+				 <p>My Email: meneses2nenita@gmail.com</p>
+				 <a href="">My Facebook: Nenita Meneses</a>
+				 <p>@Copyright notice</p>			 
+				 
+			 </ul>
+		 </nav>
+	 </div>
+  </body>
 </html>
